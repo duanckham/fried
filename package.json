@@ -1,0 +1,11 @@
+{
+  "name": "fried",
+  "version": "0.0.1",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^3.0.8"
+  }
+}
